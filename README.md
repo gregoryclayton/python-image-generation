@@ -1,6 +1,7 @@
 # random-image-generation
-An experiment in unique image generation inspired by Devs<br><br>
+An experiment in unique image generation inspired by Devs<br>
 
+<img src="https://github.com/gregoryclayton/python-image-generation/blob/main/readmePics/devs.png?raw=true" style="height:300px;">
 
 Alex Garland's 2020 show Devs is great, high recommend it if you haven;t already checked it out.<br>
 Beyond just being a great show, its very inspiring<br>
