@@ -48,8 +48,11 @@ these are the results, generate as many as you desire.
 - video_generator.py turns the generated images into frames of a video and outputs the result as an mkv file.
 
 the result looks something like this, pretty happy with it<br>
-Staring at the center has quite the psychadelic, mandalla-like effect, pretty cool<br>
-Hard to miss the similarities with the static from a telvision set resulting from<br>
+
+<img src="https://github.com/gregoryclayton/python-image-generation/blob/main/readmePics/Video1.gif?raw=true">
+
+-Staring at the center has quite the psychadelic, mandalla-like effect, pretty cool.<br>
+-Hard to miss the similarities with the static from a telvision set resulting from.<br>
 the comsic background radiation, also pretty cool.<br><br>
 
 BUGS AND IMPROVEMNTS<br>
