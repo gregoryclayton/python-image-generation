@@ -16,6 +16,9 @@ the main simulation machine uses "quantum computing" in an attempt<br>
 to siumate the entirety of esistence from the very beginning<br>
 in order to recreate a madman's lost love one's<br>
 its quite a site to behold<br>
+
+<img src="https://github.com/gregoryclayton/python-image-generation/blob/main/readmePics/devs1.png?raw=true">
+
 At one point they simulate jesus on the cross<br>
 
 While the idea of actually simulating and recreating reality down<br>
