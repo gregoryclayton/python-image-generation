@@ -43,6 +43,8 @@ to all white and everything inbetween, from homer to shakespeare<br>
 
 these are the results, generate as many as you desire.
 
+<img src="https://github.com/gregoryclayton/python-image-generation/blob/main/readmePics/picture3.png?raw=true">
+
 - video_generator.py turns the generated images into frames of a video and outputs the result as an mkv file.
 
 the result looks something like this, pretty happy with it<br>
