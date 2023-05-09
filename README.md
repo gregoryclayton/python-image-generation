@@ -21,12 +21,14 @@ its quite a site to behold<br>
 
 At one point they simulate jesus on the cross<br>
 
+<img src="https://github.com/gregoryclayton/python-image-generation/blob/main/readmePics/devs2.jpg?raw=true" style="height:300px;">
+
 While the idea of actually simulating and recreating reality down<br>
 to its atomic scale still seems far off (at least for me), the idea<br>
-seems like it could translate to a basic pixel matrix<br><br><br>
+seems like it could translate to a basic pixel matrix<br><br>
 
 
-ThE IDEA:<br>
+THE IDEA:<br>
 - generate a pixel matrix with each pixel value randomly assigned
 - hash the resulting pixel matrix and save the hash in a log
 - generate a new pixel matrix and check it's hash against existsing hashes
