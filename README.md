@@ -1,6 +1,10 @@
 # random-image-generation
-An experiment in unique image generation inspired by Devs<br>
+An experiment in unique image generation with python inspired by Devs<br><br>
 
+<h3>UPDATE</h3>
+<p><i>okay so I finally got around to writing a ersion of this code that actually logs each generated image in orderto check<br>
+gainst future genratons to enureorginality. I couldnt quite get hashlib to work so the lg just outputs a hex readout of<br>
+the iamge binary. orks great but gets slow quick and the log file gets huge quick. Will revisit soon to add a hash function.<br></i></p>
 <img src="https://github.com/gregoryclayton/python-image-generation/blob/main/readmePics/devs.png?raw=true" style="height:300px;">
 
 Alex Garland's 2020 show <a href="https://en.wikipedia.org/wiki/Devs">Devs</a> is great, highly recommend it if you haven't  checked it out yet.<br>
