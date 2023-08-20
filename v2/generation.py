@@ -43,21 +43,21 @@ def rando_pics(frames):
         message = im.tobytes()
         message_ = message.hex()
 
-        message2 = open("C:/Users/grego/Desktop/pros2/image_gen/legend.txt","r")
+        message2 = open("path for text file","r")
         message2_ = hashlib.sha256(message2)
 
         if message_ in message2_:
             print("collision")
-            im.save("C:/Users/grego/Desktop/pros2/image_gen/storage/picture" + counter + ".png")
-            f = open("C:/Users/grego/Desktop/pros2/image_gen/legend.txt","a")
+            im.save("path for picture store" + counter + ".png")
+            f = open("path for text file","a")
             f.write('\n' + "---COLLISION AT:" + message_)
             break
         else:
-            im.save("C:/Users/grego/Desktop/pros2/image_gen/storage/picture" + counter + ".png")
+            im.save("path for picture store" + counter + ".png")
         
             print("saved random image")
             
-            f = open("C:/Users/grego/Desktop/pros2/image_gen/legend.txt","a")
+            f = open("path for text file","a")
             f.write('\n')
 
             f.write(message_ + "---" + counter)
